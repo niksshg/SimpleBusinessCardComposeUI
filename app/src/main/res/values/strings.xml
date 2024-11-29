@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <string name="name">James Smith</string>
+    <string name="title">Android Developer</string>
+
+    <string name="phone_number">+00 (00) 000 000</string>
+    <string name="social_media_account">"@jamessmith"</string>
+    <string name="email">"james.smith@gmail.com"</string>
+</resources>
